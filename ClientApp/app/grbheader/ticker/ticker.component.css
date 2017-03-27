@@ -1,0 +1,8 @@
+﻿.form-control-inline {
+    min-width: 0 !important;
+    width: auto !important;
+    display: inline;
+}
+#tbxTicker {
+    width:1200px;
+}
